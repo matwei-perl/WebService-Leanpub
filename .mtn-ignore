@@ -1,0 +1,16 @@
+^blib/
+^blib$
+^_build/
+^_build$
+^Build$
+^\.cvsignore$
+^\.leanpub\.conf$
+^leanpub/manuscript$
+^leanpub/.*\.pod$
+^leanpub/preview$
+^leanpub/published$
+^Makefile$
+^META\.json$
+^META\.yml$
+^TODO\.otl$
+^WebService-Leanpub-v
