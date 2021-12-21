@@ -12,7 +12,7 @@ my $builder = Module::Build->new(
     license             => 'perl',
     meta_merge => {
         resources => {
-            repository => 'https://github.com/matwei/perl-WebService-Leanpub',
+            repository => 'https://github.com/matwei-perl/WebService-Leanpub',
             bugtracker => 'https://rt.cpan.org/Public/Dist/Display.html?Name=WebService-Leanpub',
         }
     },
