@@ -1,0 +1,8 @@
+_build/
+Build
+MANIFEST.bak
+META.json
+META.yml
+MYMETA.json
+MYMETA.yml
+WebService-Leanpub-v*
