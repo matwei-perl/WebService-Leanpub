@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Carp;
 
-use version; our $VERSION = qv('0.3.0');
+use version; our $VERSION = qv('v0.3.1');
 
 use HTTP::Request::Common;
 use JSON;
@@ -259,7 +259,7 @@ WebService::Leanpub - Access the Leanpub web API.
 
 =head1 VERSION
 
-This document describes WebService::Leanpub version 0.3
+This document describes WebService::Leanpub version v0.3.1
 
 =head1 SYNOPSIS
 
